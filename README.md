@@ -13,7 +13,7 @@ Ce projet est un chatbot simple écrit en Go. Il permet aux utilisateurs d'inter
 
 ## Structure du projet
 
-- `main.go`: Le fichier principal contenant le code source du chatbot.
+- `ChatBot.go`: Le fichier principal contenant le code source du chatbot.
 - `README.md`: Ce fichier README.
 
 ## Licence
